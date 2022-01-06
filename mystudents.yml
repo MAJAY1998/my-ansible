@@ -1,0 +1,33 @@
+---
+- mystudents:
+   - name: ajay
+     phno: 9999999999       
+     address:
+       - door:2
+       - street:32
+       - code: 123
+     education:
+
+   - name: hari
+     phno: 
+     address:
+       - door:
+       - street:
+       - code: 
+     education:
+
+   - name: pavani
+     phno:
+     address:
+       - door:
+       - street:
+       - code: 
+     education:
+
+   - name: lucky
+     phno:
+     address:
+       - door:
+       - street:
+       - code: 
+     education:
